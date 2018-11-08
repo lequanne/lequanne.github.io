@@ -21,7 +21,7 @@
     <div class="container">	
       <div class="header-content">
         <h1>I'm <span class="typed"></span></h1>
-        <p>a civic technologist, a techno-economics student, a technology consultant</p>
+        <p>a civic technologist. a techno-economics student. a technology consultant.</p>
         <ul class="list-unstyled list-social">
 		  <li><a href="https://github.com/ismailtasdelen" target="_blank"><i class="ion-social-github"></i></a></li>
           <li><a href="https://www.linkedin.com/in/lequannecollinsbacchus/" target="_blank"><i class="ion-social-linkedin" target="_blank"></i></a></li>
