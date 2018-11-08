@@ -26,7 +26,7 @@
 		  <li><a href="https://github.com/ismailtasdelen" target="_blank"><i class="ion-social-github"></i></a></li>
           <li><a href="https://www.linkedin.com/in/lequannecollinsbacchus/" target="_blank"><i class="ion-social-linkedin" target="_blank"></i></a></li>
           <li><a href="https://twitter.com/@ismailtsdln" target="_blank"><i class="ion-social-twitter"></i></a></li>
-          ##<li><a href="https://www.youtube.com/channel/UCPqc50Wmt6ZF2BJWtNJlq-g"><i class="ion-social-youtube" target="_blank"></i></a></li>
+          <li><a href="https://www.youtube.com/channel/UCPqc50Wmt6ZF2BJWtNJlq-g"><i class="ion-social-youtube" target="_blank"></i></a></li>
 		  <li><a href="https://www.instagram.com/paere_/" target="_blank"><i class="ion-social-instagram"></i></a></li>
       </div>
     </div>
