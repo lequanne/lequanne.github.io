@@ -1,6 +1,4 @@
 
-	
-	# one-page-website
 - http://lequanne.github.io
 
 <p align="center">
