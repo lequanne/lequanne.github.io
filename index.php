@@ -23,7 +23,7 @@
         <h1>I'm <span class="typed"></span></h1>
         <p>a civic technologist, a techno-economics student, a technology consultant</p>
         <ul class="list-unstyled list-social">
-		  <li><a href="https://github.com/lequanne" target="_blank"><i class="ion-social-github"></i></a></li>
+	  <li><a href="https://github.com/lequanne" target="_blank"><i class="ion-social-github"></i></a></li>
           <li><a href="https://www.linkedin.com/in/lequannecollinsbacchus/" target="_blank"><i class="ion-social-linkedin" target="_blank"></i></a></li>
           <li><a href="https://twitter.com/@mypaere" target="_blank"><i class="ion-social-twitter"></i></a></li>
 	  <li><a href="https://www.instagram.com/paere_/" target="_blank"><i class="ion-social-instagram"></i></a></li>
